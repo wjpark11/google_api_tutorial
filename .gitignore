@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+sheetapi-edb6ae5e27c3.json
+.DS_Store
+*/
